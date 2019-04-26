@@ -15,6 +15,7 @@
 		"luac5.1.5": "./luac5.1.5"
 	},
 	"dependencies": {
-		"fengari": "^0.1.4"
+		"fengari": "^0.1.4",
+		"readline-sync": "^1.4.9"
 	}
 }
