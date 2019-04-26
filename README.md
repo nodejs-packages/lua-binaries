@@ -1,1 +1,1 @@
-# luabinaries
+# lua-binaries
