@@ -5,6 +5,9 @@
 	"keywords": ["lua5.3","lua","lua5.3.5"],
 	"author": "BannerBomb",
 	"maintainer": "BannerBomb",
+	"directories": {
+		"bin": "./bin",
+	},
 	"bin": {
 		"lua5.3.5": "./lua5.3.5.js",
 		"luac5.3.5": "./luac5.3.5.js"
