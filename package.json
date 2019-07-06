@@ -5,6 +5,10 @@
 	"keywords": ["lua5.3","lua","lua5.3.5","lua5.3.5.js","luac5.3.5.js"],
 	"author": "BannerBomb",
 	"maintainer": "BannerBomb",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nodejs-packages/lua-binaries.git"
+	},
 	"directories": {
 		"bin": "./node_modules/.bin/"
 	},
